@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Suraj_Portfolio./static/css/main.58a0c615.css",
+    "main.js": "/Suraj_Portfolio./static/js/main.a82fb9ad.js",
+    "static/media/HeroImage.jpg": "/Suraj_Portfolio./static/media/HeroImage.975bfb10d3e0f3c33229.jpg",
+    "index.html": "/Suraj_Portfolio./index.html",
+    "main.58a0c615.css.map": "/Suraj_Portfolio./static/css/main.58a0c615.css.map",
+    "main.a82fb9ad.js.map": "/Suraj_Portfolio./static/js/main.a82fb9ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58a0c615.css",
+    "static/js/main.a82fb9ad.js"
+  ]
+}
